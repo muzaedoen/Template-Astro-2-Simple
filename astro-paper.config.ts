@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://segopager.eu.org",
+    url: "https://web-berita.pages.dev/",
     title: "SegoPager",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "WBU",
@@ -30,7 +30,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
 
-    { name: "facebook", url: "https://www.facebook.com/mastomo" }
+    { name: "facebook", url: "https://www.facebook.com/mastomo" },
 
   ],
 });
