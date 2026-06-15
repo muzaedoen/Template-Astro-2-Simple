@@ -30,7 +30,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
 
-    { name: "facebook", url: "https://www.facebook.com/mastomo" },
+    { name: "facebook", url: "https://www.facebook.com/mastomo" }
 
   ],
 });
