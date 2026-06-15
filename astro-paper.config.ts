@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "segopager.eu.org",
+    url: "https://segopager.eu.org",
     title: "SegoPager",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "WBU",
